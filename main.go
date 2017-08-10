@@ -1,7 +1,7 @@
 package main
 
 import (
-	"adithyavisnu/golang-webtemplate/server"
+	"github.com/adithyavisnu/go-web-template/server"
 	"fmt"
 )
 
