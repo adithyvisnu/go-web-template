@@ -9,7 +9,6 @@ import (
 
 var addr string
 var shutdown bool
-var listener net.Listener
 
 // Start() the web server
 func Start() {
